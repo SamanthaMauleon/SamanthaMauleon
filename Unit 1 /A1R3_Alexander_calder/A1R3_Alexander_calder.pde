@@ -2,11 +2,16 @@ PImage alex;
 
 void setup() {
  size(800,559 );
+<<<<<<< Updated upstream
 //alex=loadImage("alexander.jpeg");
+=======
+alex=loadImage("alexander.jpeg");
+>>>>>>> Stashed changes
 }
 
 void draw() {
   background(#d4d0d0);
+<<<<<<< Updated upstream
  //image(alex, 0, 0);
  strokeWeight(6);
  stroke(#020203);
@@ -37,11 +42,28 @@ void draw() {
  stroke(#020202);
   fill(188,185,185);
  triangle(325, 489, 202, 247, 246, 525);
+=======
+ image(alex, 0, 0);
+  stroke(#020202);
+  strokeWeight(2);
+  fill(33,59,119);
+  triangle(380, 25, 337, 484, 536, 352);
+    stroke(#020202);
+  fill(214,46,46);
+  triangle(337, 483, 60, 333, 379, 24);
+ stroke(#020202);
+  fill(249,154,19);
+  triangle(246, 525, 39, 466, 200, 246);
+ stroke(#020202);
+  fill(188,185,185);
+ triangle(321, 486, 202, 247, 246, 525);
+>>>>>>> Stashed changes
    stroke(#020202);
    strokeWeight(4);
    fill(219,24,38);
   ellipse(width * 0.70, height * 0.84, 399, 172);
 stroke(#020202);
+<<<<<<< Updated upstream
 fill(52,68,151);
   triangle(546, 357, 380, 20, 337, 477);
 fill(221,37,50);
@@ -55,6 +77,20 @@ fill(195,191,191);
   fill(47,47,47);
   triangle(22, 216, 201, 193, 107, 39);
   
+=======
+fill(221,195,54);
+  triangle(810, 270, 662, 53, 698, 357);
+fill(97,79,80);
+  triangle(696, 358, 660, 49, 455, 254);
+fill(65,56,56);
+  triangle(21, 218, 105, 35, 198, 194);
+fill(204,199,199);
+  triangle(21, 216, 99, 40, -22, 166);
+}
+
+void mouseClicked() {
+ // save("output.png");
+>>>>>>> Stashed changes
 }
 
 void mouseClicked() {
