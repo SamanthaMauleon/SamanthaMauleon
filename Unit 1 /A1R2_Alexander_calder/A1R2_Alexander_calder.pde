@@ -58,5 +58,5 @@ fill(195,191,191);
 }
 
 void mouseClicked() {
- //save("output.png");
+ save("output.png");
 }
