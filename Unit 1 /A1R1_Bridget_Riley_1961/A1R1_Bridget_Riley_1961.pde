@@ -306,23 +306,18 @@ void draw() {
   stroke(#000009);
   fill(0,1,10);
   rect(width * 0.57, height * 0.67, -11, 51);
-  
   stroke(#000001);
   fill(0,0,0);
   rect(width * 0.63, height * 0.17, -6, 51);
-  
   stroke(#000003);
   fill(0,0,0);
   rect(width * 0.63, height * 0.91, -1, 63);
-  
   stroke(#0f0f22);
   fill(0,0,2);
   rect(width * 0.63, height * 0.84, -5, 51);
-  
   stroke(#000004);
   fill(0,0,3);
   rect(width * 0.62, height * 0.75, -6, 55);
-  
   stroke(#000004);
   fill(0,1,9);
   rect(width * 0.63, height * 0.67, -6, 52);
@@ -330,76 +325,57 @@ void draw() {
   stroke(#000001);
   fill(0,0,5);
   rect(width * 0.64, height * 0.59, -4, 48);
-  
   stroke(#000004);
   fill(0,0,1);
-  rect(width * 0.63, height * 0.50, -4, 51);
-  
+  rect(width * 0.63, height * 0.50, -4, 51); 
   stroke(#000003);
   fill(0,0,7);
   rect(width * 0.62, height * 0.58, -8, 55);
-  
   stroke(#000000);
   fill(1,1,0);
   rect(width * 0.61, height * 0.92, -1, 64);
-  
   stroke(#000003);
   fill(0,0,1);
   rect(width * 0.60, height * 0.67, -5, 51);
-  
    stroke(#000003);
   fill(0,0,5);
   rect(width * 0.89, height * 0.50, 31, 56);
-
     stroke(#000009);
   fill(0,0,5);
   rect(width * 0.89, height * 0.34, 31, 49);
-
   stroke(#000008);
   fill(0,0,0);
   rect(width * 0.89, height * 0.00, 30, 52);
-
   stroke(#000001);
   fill(0,0,2);
   rect(width * 0.89, height * 0.84, 30, 50);
-  
    stroke(#000004);
   fill(0,0,1);
   rect(width * 0.85, height * 0.92, 24, 56);
-
  stroke(#000004);
   fill(0,0,1);
   rect(width * 0.89, height * 0.67, 30, 53);
-
  stroke(#000003);
   fill(0,0,2);
   rect(width * 0.85, height * 0.75, 21, 58);
-
  stroke(#000007);
   fill(0,0,3);
   rect(width * 0.89, height * 0.17, 30, 50);
-  
   stroke(#000001);
   fill(0,0,5);
   rect(width * 0.89, height * 0.17, 30, 50);
-
 stroke(#000001);
   fill(0,0,1);
   rect(width * 0.89, height * 0.17, 30, 50);
-
 stroke(#000000);
   fill(1,2,15);
   rect(width * 0.89, height * 0.17, 30, 50);
-
 stroke(#000006);
   fill(0,0,2);
   rect(width * 0.89, height * 0.17, 30, 50);
-
 stroke(#000007);
   fill(0,0,2);
   rect(width * 0.89, height * 0.17, 30, 50);
-  
-  
   stroke(#000004);
   fill(0,0,1);
   rect(width * 0.81, height * 0.84, 19, 50);
@@ -424,7 +400,6 @@ stroke(#000002);
 stroke(#000002);
   fill(0,1,5);
   rect(width * 0.81, height * 0.34, 22, 50);
-  
   stroke(#000000);
   fill(0,0,1);
   rect(width * 0.75, height * 0.34, 16, 47);
@@ -480,8 +455,6 @@ stroke(#000007);
 stroke(#000003);
   fill(0,0,0);
   rect(width * 0.71, height * 0.84, 11, 50);
-
-
 stroke(#000001);
   fill(0,0,0);
   rect(width * 0.73, height * 0.75, 11, 57);
@@ -506,23 +479,18 @@ stroke(#000001);
 stroke(#080000);
   fill(0,0,1);
   rect(width * 0.70, height * 0.92, 5, 54);
-  
   stroke(#000003);
   fill(0,0,2);
   rect(width * 0.67, height * 0.92, 3, 54);
-
 stroke(#000004);
   fill(0,0,1);
   rect(width * 0.71, height * 0.33, 11, 54);
-
 stroke(#000001);
   fill(0,0,3);
   rect(width * 0.71, height * 0.08, 11, 54);
-
  stroke(#000001);
   fill(0,0,2);
   rect(width * 0.70, height * 0.25, 2, 54);
-
 stroke(#000004);
   fill(0,0,0);
   rect(width * 0.69, height * 0.84, 2, 52);
@@ -546,11 +514,9 @@ stroke(#000000);
 stroke(#000004);
   fill(0,0,0);
   rect(width * 0.70, height * 0.42, 4, 51);
-
 stroke(#010000);
   fill(0,0,1);
   rect(width * 0.69, height * 0.33, -4, 54);
-
 stroke(#000000);
   fill(0,0,4);
   rect(width * 0.67, height * 0.17, 0, 54);
@@ -584,7 +550,6 @@ stroke(#000003);
 stroke(#000003);
   fill(0,0,5);
   rect(width * 0.67, height * 0.75, -2, 54);
-  
   stroke(#000003);
   fill(0,0,1);
   rect(width * 0.68, height * 0.25, -1, 50);
@@ -627,7 +592,6 @@ stroke(#000003);
 stroke(#000001);
   fill(0,0,1);
   rect(width * 0.65, height * 0.50, -1, 57);
-
 stroke(#000001);
   fill(0,0,5);
   rect(width * 0.66, height * 0.59, -1, 49);
